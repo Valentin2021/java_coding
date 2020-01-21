@@ -15,6 +15,7 @@ public class ForLoops {
 		}
 		scn.close();
 		System.out.println("Completed");
+		//outputs 3,5,7
 	}
 
 }
